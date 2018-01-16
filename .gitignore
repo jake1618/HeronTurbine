@@ -1,0 +1,11 @@
+*.eps
+*.npy
+*.pyc
+*.mat
+*.mp4
+*.xlsx
+*.png
+*.jpg
+*.idea
+*.csv
+
